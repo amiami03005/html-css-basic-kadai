@@ -1,6 +1,9 @@
+html{
+  font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 1.25rem;
   text-align: center;
 }
 h1 {
